@@ -1,6 +1,6 @@
 {
   "name": "mb-ci",
-  "version": "0.0.2",
+  "version": "0.1.1",
   "description": "MBJS library ci processing",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -15,6 +15,10 @@
     "lib"
   ],
   "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wenzhu-eternal/mb-ci.git"
+  },
   "dependencies": {
     "chalk": "^4.1.2",
     "inquirer": "^8.1.2",
